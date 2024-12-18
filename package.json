@@ -1,0 +1,16 @@
+{
+  "name": "ntop_soundfont",
+  "version": "1.0.0",
+  "description": "This repository exists to host custom soundfonts for [NoteByNote](https://github.com/NoTalkOnlyProx/NoteByNote).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "ffmpeg-stream": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "tmp": "^0.2.3",
+    "wavefile": "^11.0.0"
+  }
+}
